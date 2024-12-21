@@ -13,6 +13,7 @@ Simple Linear Regression is a statistical method to find the relationship betwee
 
 Equation:
           y=mx+c
+
 Where:
 
 - m: Slope of the line (how much y changes for a unit change in X).
