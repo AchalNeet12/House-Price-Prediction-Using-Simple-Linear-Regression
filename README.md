@@ -14,6 +14,7 @@ Simple Linear Regression is a statistical method to find the relationship betwee
 Equation:
           y=mx+c
 Where:
+
 - m: Slope of the line (how much y changes for a unit change in X).
 - c: Intercept (value of y when X = 0).
 - **Role of Simple Linear Regression in the Project**
@@ -58,15 +59,15 @@ Where:
 
 ## Technology Used
 1. **Programming Language:**
-- Python
+ - Python
 2. **Framework:**
-- Streamlit: For creating the web app interface.
+ - Streamlit: For creating the web app interface.
 3 **Libraries:**
-- NumPy: For numerical computations.
-- Pandas: For data manipulation.
-- Scikit-learn: For building and evaluating the regression model.
-- Base64: For encoding the background image.
-- Streamlit Styling: For customizing the app layout and appearance.
+ - NumPy: For numerical computations.
+ - Pandas: For data manipulation.
+ - Scikit-learn: For building and evaluating the regression model.
+ - Base64: For encoding the background image.
+ - Streamlit Styling: For customizing the app layout and appearance.
 
 ---
 
